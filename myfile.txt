@@ -1,0 +1,12 @@
+this is myfile
+change made to myfile
+added
+HEAD
+change in main branch
+for new_branch
+new_branch
+
+
+for main branch 
+for new_branch 1
+
